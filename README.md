@@ -1,5 +1,5 @@
-Developed by : ROHIT JAIN D  
-Reference No : 22005894  
+Developed by : Sandhiya 
+Reference No : 22007409  
 
 ## AIM:
 To implement the given logic function using NAND and NOR gates and to verify its operation in Quartus using Verilog programming.  
